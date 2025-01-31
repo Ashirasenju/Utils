@@ -1,4 +1,4 @@
-# Utils 
+# Utils
 
 This repo has been made to store all my homemade utils programs made during my studies.
 
